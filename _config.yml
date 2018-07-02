@@ -146,6 +146,7 @@ links:
   Lxf: http://www.liaoxuefeng.com/
   Issnan: http://notes.issnan.com/
   Trinea: http://www.trinea.com/
+  IntelliJ: http://idea.lanyus.com/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -685,7 +686,7 @@ three_waves: true
 canvas_lines: false
 
 # canvas_sphere
-canvas_sphere: true
+canvas_sphere: false
 
 # Only fit scheme Pisces
 # Canvas-ribbon
